@@ -1,0 +1,32 @@
+* {
+  font-family: Lato
+}
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  background: black;
+  color: lightgrey;
+}
+
+header {
+  font-size: 2em;
+  font-weight: bolder;
+  background: grey;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+button {
+  height: 70px;
+  width: 150px;
+  font-size: 1em;
+  background: purple;
+  color: white;
+  border: none;
+}
+
+.highlight {
+  font-weight: bolder;
+}
